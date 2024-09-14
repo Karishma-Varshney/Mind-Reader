@@ -1,1 +1,4 @@
-Author - Karishma Varshney
+## 🚀 About Me
+
+- [@Karishma Varshney](https://github.com/Karishma-Varshney)
+
