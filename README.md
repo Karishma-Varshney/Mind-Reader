@@ -1,6 +1,6 @@
 ## 🛠 Skills
 
-Python, tkinter library
+Python (programming language), tkinter library
 
 ## 🚀 About Me
 
